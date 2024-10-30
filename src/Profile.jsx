@@ -63,6 +63,7 @@ function Profile() {
 
     return (
         <div>
+            <h4>A Profile component that fetches user data form an API every time the userId changes. The user can click a Next User button to update userId and fetch a new user's data.</h4>
             <h1>User Profile</h1>
             <h2>User id: {userId}</h2>
 

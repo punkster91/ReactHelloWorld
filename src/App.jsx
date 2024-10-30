@@ -26,10 +26,14 @@ function App() {
         </a>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+              </a>
       </div>
-      <h1>Vite + React</h1>
+          <h1>Vite + React</h1>
+          <p className="read-the-docs">
+              Click on the Vite and React logos to learn more
+          </p>
           <div className="card">
+              <h4>You have a Counter component where a user can increase or decrease a counter by clicking buttons</h4>
               <h1>Counter: {count}</h1>
        
               <button onClick={increment}>Increment</button>
@@ -39,9 +43,7 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      
     </>
   )
 }

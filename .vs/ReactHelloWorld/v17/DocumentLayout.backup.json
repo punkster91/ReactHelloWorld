@@ -30,8 +30,7 @@
               "RelativeToolTip": "src\\main.jsx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-05-27T17:01:28.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T17:01:28.742Z"
             },
             {
               "$type": "Document",
@@ -41,10 +40,14 @@
               "RelativeDocumentMoniker": "src\\App.jsx",
               "ToolTip": "C:\\Users\\bdnch\\source\\repos\\ReactHelloWorld\\src\\App.jsx",
               "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-05-27T17:01:18.532Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
